@@ -7,12 +7,22 @@
 
 body{
     background-color: lightslategray;
+}
+
+h3{
+    color: wheat;
+    font-size: 3rem;
+    display: flex;
+    justify-content: center;
+    padding-top: 5%;
+}
+
+.container{
     display: flex;
     justify-content: center;
     align-items: center;
-    min-height: 100vh;
+    padding-top: 8rem;
 }
-
 
 .road{
     position: relative;
